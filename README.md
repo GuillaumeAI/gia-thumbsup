@@ -1,3 +1,16 @@
+# GIA-Thumbsup
+
+## Intentions
+
+* Include in my distribution for AI as a result view creator
+* Extend to support informing on Which maturity level and style agent was used.
+
+
+----
+ORIGINAL FORKED REPO README
+----
+
+
 # thumbsup
 
 <!-- Project info -->
