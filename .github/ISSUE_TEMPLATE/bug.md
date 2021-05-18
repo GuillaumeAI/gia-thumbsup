@@ -1,6 +1,6 @@
 ---
 name: Bug report
-about: Something went wrong? Create a bug report to help us improve.
+about: Hey Something went wrong? Create a bug report to help us improve.
 labels: bug
 ---
 

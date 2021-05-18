@@ -1,6 +1,6 @@
 ---
 name: Feature request
-about: Suggest a new feature for Thumbsup.
+about: Ohh Suggest a new feature for GIA-GAL.
 labels: enhancement
 ---
 

@@ -1,10 +1,10 @@
 ---
 name: Installation issues
-about: Any problem installing Thumbsup?
+about: Any problem installing GIA-GAL?
 labels: installation
 ---
 
-If trying to install Thumbsup locally:
+If trying to install GIA-GAL (Thumbsup) locally:
 
 ```
 Thumbsup version: __________
