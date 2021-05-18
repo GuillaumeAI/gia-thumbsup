@@ -1,4 +1,6 @@
-# GIA-Thumbsup
+# GIA-GAL (Thumbsup)
+
+Customized dist.
 
 ## Intentions
 

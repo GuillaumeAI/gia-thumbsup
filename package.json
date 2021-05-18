@@ -1,5 +1,5 @@
 {
-  "name": "gia-thumbsup",
+  "name": "gia-gal",
   "version": "2.16.0",
   "description": "GIA Photo / video gallery generator",
   "author": "Romain Prieto",
@@ -20,7 +20,7 @@
   },
   "main": "bin/thumbsup.js",
   "bin": {
-    "gia-thumbsup": "./bin/thumbsup.js"
+    "gia-gal": "./bin/thumbsup.js"
   },
   "files": [
     "src",
